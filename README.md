@@ -18,5 +18,8 @@
 
 ## Entre em contato comigo
 
-<a href = "mailto:oliveirabruno.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/brunooliveira09" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:oliveirabruno.tech@gmail.com"><img src="
+ 
+[!mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank")
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white target="_blank")](https://www.linkedin.com/in/brunooliveira09/)
+
