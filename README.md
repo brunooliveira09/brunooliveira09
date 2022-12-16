@@ -16,4 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunooliveira09&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveira09&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Entre em contato comigo
 
+<a href = "mailto:oliveirabruno.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brunooliveira09" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
