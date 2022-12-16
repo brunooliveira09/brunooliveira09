@@ -32,5 +32,5 @@ Sou um eterno entusiasta da automação, melhoria de processos e maker ~~frustra
  ## Estatísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunooliveira09&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveira09&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveira09&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
